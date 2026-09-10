@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Gemma",
+      "hasCanvas": false,
+      "bodyTextLen": 811,
+      "bodyTextHash": "64b633d14fbe4a3823aff6d13a95165c2dd6214cf0071dbe9cfea2d4091f5914",
+      "bodyTextPrefix": "Skip to composer CONVERSATIONS New chat No conversations yet. Im",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Gemma",
+      "hasCanvas": false,
+      "bodyTextLen": 737,
+      "bodyTextHash": "072abc014f14e9e01a524b640403ddeadc0daa5c8eacaa0b4099b5a850167d10",
+      "bodyTextPrefix": "Skip to composer Gemma AI Gemma AI Assistant Dark Mistral interf",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
